@@ -36,5 +36,6 @@ public class exercicio9 {
         System.out.println("Média das idades: " + media);
         System.out.println("Quantidade de pessoas com mais de 90 quilos: " + qtdPessoasMais90);
 
+        scanner.close();
     }
 }
